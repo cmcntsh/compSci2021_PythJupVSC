@@ -12,9 +12,13 @@ I'll illustrate with a story told to me by one of the senior members of the team
 
 ## Exercises
 
-* Python basics tutorial https://github.com/cmcntsh/exerPythBasicsTutorial
-* Python data science tutorial https://github.com/cmcntsh/exerPythDataScienceTut
-* Create .py files assignment https://github.com/cmcntsh/exerPythCreateBasic
+* Educative - Learn Python 3 from Scratch - Loops https://github.com/cmcntsh/exerPythEdBasLoops
+* Educative - Learn Python 3 from Scratch - Data Structures https://github.com/cmcntsh/exerPythEdBasDataStructures
+* Educative - Learn Python 3 from Scratch - Libraries https://github.com/cmcntsh/exerPythEdBasLibraries
+* Educative - Learn Python 3 from Scratch - Executing Python Code https://github.com/cmcntsh/exerPythEdBasExecuteCode
+* (old, probably won't use again) Python basics tutorial https://github.com/cmcntsh/exerPythBasicsTutorial
+* (old, probably won't use again) Python data science tutorial https://github.com/cmcntsh/exerPythDataScienceTut
+* (old, probably won't use again) Create .py files assignment https://github.com/cmcntsh/exerPythCreateBasic
 
 ## Assigned Instructional Material
 
