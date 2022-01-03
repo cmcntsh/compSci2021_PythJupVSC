@@ -23,6 +23,7 @@ I'll illustrate with a story told to me by one of the senior members of the team
 ## Assigned Instructional Material
 
 * Importance of DTAP (Development, Testing, Acceptance, & Production) environments (17 min): https://www.youtube.com/watch?v=pdNmlvJL7qw
+* New Approaches to Software Development Lifecycle and Application Lifecycle Management (pdf included in this repository)
 
 ## Optional Material
 
