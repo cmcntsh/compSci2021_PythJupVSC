@@ -31,3 +31,12 @@ I'll illustrate with a story told to me by one of the senior members of the team
 * Microsoft More python for beginners playlist (20 videos approx 2 hours 25 min): https://www.youtube.com/playlist?list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj
 * Microsoft Even more python for beginners data tools playlist (31 videos approx 2 hours 35 min): https://www.youtube.com/playlist?list=PLlrxD0HtieHhHnCUVtR8UHS7eLl33zfJ-
 * Python Advanced Tutorial: https://github.com/cmcntsh/exerPythAdvancedTut
+* How to Learn Python for Free (6 free courses introduced) How to Learn Python for Free: https://www.makeuseof.com/how-to-learn-python-for-free/
+  * The first course (Google's Python Tutorials) looks to be quite old and uses Python 2.7. We're using Python 3.x. One of the biggest differences is how the print statement is crafted. Python 2.7 doesn't use parentheses with the print statement. There are some other minor differences. But the basic concepts are the same.
+  * Google's Python Tutorial (pretty old, a bit confusing) https://developers.google.com/edu/python/
+  * Microsoft EdEx https://learning.edx.org/course/course-v1:Microsoft+DEV236x+3T2018/home
+  * FreeCodeCamp https://www.youtube.com/watch?v=rfscVS0vtbw
+  * Introduction to Python Programming on Udemy https://www.udemy.com/course/pythonforbeginnersintro/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-_8s.x3nvoYc3AK9KX4QlDw&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads
+  * Educative Learn Python 3 https://www.educative.io/courses/learn-python-3-from-scratch
+  * MakeCode Python https://makecode.com/blog/minecraft/python-release
+* Free Python course on Scrimba https://scrimba.com/learn/python
