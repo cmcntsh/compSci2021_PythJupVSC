@@ -40,3 +40,4 @@ I'll illustrate with a story told to me by one of the senior members of the team
   * Educative Learn Python 3 https://www.educative.io/courses/learn-python-3-from-scratch
   * MakeCode Python https://makecode.com/blog/minecraft/python-release
 * Free Python course on Scrimba https://scrimba.com/learn/python
+* Free Python and Pandas courses on Kaggle https://www.kaggle.com/learn
